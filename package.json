@@ -1,0 +1,14 @@
+{
+  "name": "ajaxjson",
+  "version": "1.0.0",
+  "description": "ajax stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "rutanshu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
